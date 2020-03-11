@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Source/.vs/Plugin-Service-Host
+/Source/ServiceHost/bin
+/Source/ServiceHost/obj

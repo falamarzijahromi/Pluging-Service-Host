@@ -1,2 +1,2 @@
 # Pluging-Service-Host
-.NET Core plugin service host can hosts REST plugin APIs
+.NET Core Service Host that can hosts REST plugin APIs 
